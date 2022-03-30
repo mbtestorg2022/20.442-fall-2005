@@ -4,6 +4,7 @@ description: This resource includes questions on basic characteristic s of sever
   secondary structural construction motifs and characteristic of coiled-coil?
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/20-442-molecular-structure-of-biological-materials-be-442-fall-2005/b853f5a8c64eaf734d8f6ab45617bd42_midterm2005.pdf
 file_type: application/pdf
+parent_uid: 80f8f236-5c09-7550-7040-3328e6a08d0a
 resourcetype: Document
 title: midterm2005.pdf
 uid: b853f5a8-c64e-af73-4d8f-6ab45617bd42
